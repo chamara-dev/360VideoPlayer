@@ -1,0 +1,11 @@
+use_frameworks!
+
+target '360VideoPlayer_Example' do
+  pod '360VideoPlayer', :path => '../'
+
+  target '360VideoPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
