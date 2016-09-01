@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 360VideoPlayer
 
 [![CI Status](http://img.shields.io/travis/Chamara Susantha/360VideoPlayer.svg?style=flat)](https://travis-ci.org/Chamara Susantha/360VideoPlayer)
@@ -27,3 +28,6 @@ Chamara Susantha, chamara.susantha@vcube.co.jp
 ## License
 
 360VideoPlayer is available under the MIT license. See the LICENSE file for more info.
+=======
+# 360VideoPlayer
+>>>>>>> d66134b057a47f9d7a81c376dec95f0e4fd76d11
